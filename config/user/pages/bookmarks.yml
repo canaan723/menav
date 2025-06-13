@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-13T06:09:12.012Z
+# 由bookmark-processor.js生成于 2025-06-13T06:17:28.222Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -28,8 +28,12 @@ categories:
         url: https://quwenjian.cc/#/
         icon: fas fa-link
         description: ""
-      - name: SwissTransfer - 安全且免费地发送大文件 --- SwissTransfer - Send large files securely and free of charge
-        url: https://www.swisstransfer.com/en-us
+      - name: 屋舍 - 您最可靠的永久高速网络文件柜
+        url: https://www.uhsea.com/#gossip
+        icon: fas fa-link
+        description: ""
+      - name: MuseTransfer｜文件传输 不限速 高品质
+        url: https://musetransfer.com/
         icon: fas fa-link
         description: ""
       - name: 奶牛快传｜免费大文件传输工具，上传下载不限速 CowTransfer | Unlimited Send Large Files
@@ -44,16 +48,12 @@ categories:
         url: https://www.jianguoyun.com/#/
         icon: fas fa-link
         description: ""
-      - name: 屋舍 - 您最可靠的永久高速网络文件柜
-        url: https://www.uhsea.com/#gossip
-        icon: fas fa-link
-        description: ""
-      - name: MuseTransfer｜文件传输 不限速 高品质
-        url: https://musetransfer.com/
-        icon: fas fa-link
-        description: ""
       - name: InfiniCLOUD日本网盘
         url: https://infini-cloud.net/en/modules/mypage/usage/
+        icon: fas fa-link
+        description: ""
+      - name: SwissTransfer - 安全且免费地发送大文件 --- SwissTransfer - Send large files securely and free of charge
+        url: https://www.swisstransfer.com/en-us
         icon: fas fa-link
         description: ""
   - name: 📬邮箱
@@ -197,6 +197,14 @@ categories:
         url: https://www.itdog.cn/
         icon: fas fa-link
         description: ""
+      - name: 测速speedtest
+        url: https://www.speedtest.net/
+        icon: fas fa-link
+        description: ""
+      - name: 台湾大学测速（外网）
+        url: http://speed5.ntu.edu.tw/speed5/
+        icon: fas fa-link
+        description: ""
       - name: 检测IP伪装网站WHOER
         url: https://whoer.net/zh
         icon: fas fa-link
@@ -211,14 +219,6 @@ categories:
         description: ""
       - name: 检查IP地址的延迟
         url: https://tools.ipip.net/ping.php
-        icon: fas fa-link
-        description: ""
-      - name: 测速speedtest
-        url: https://www.speedtest.net/
-        icon: fas fa-link
-        description: ""
-      - name: 台湾大学测速（外网）
-        url: http://speed5.ntu.edu.tw/speed5/
         icon: fas fa-link
         description: ""
       - name: IP检测-检测您的IP质量
@@ -277,14 +277,6 @@ categories:
         description: ""
       - name: Super — 使用 Notion 创建自定义网站
         url: https://super.so/
-        icon: fas fa-link
-        description: ""
-      - name: 免费节点
-        url: https://github.com/search?q=v2ray+free&amp;type=repositories&amp;s=stars&amp;o=desc
-        icon: fab fa-github
-        description: ""
-      - name: 免费节点
-        url: https://fofa.info/result?qbase64=Ym9keT0i6Ieq5Yqo5oqT5Y%20WdGfpopHpgZPjgIHorqLpmIXlnLDlnYDjgIHlhazlvIDkupLogZTnvZHkuIrnmoRzc%20OAgXNzcuOAgXZtZXNz44CBdHJvamFu6IqC54K55L%20h5oGvIg%3D%3D
         icon: fas fa-link
         description: ""
       - name: Notion-faster反向代理
@@ -514,8 +506,12 @@ categories:
   - name: 🎵音乐
     icon: fas fa-folder
     sites:
-      - name: 真夜中のオーケストラ 歌詞 Aqua Timez NARUTO-ナルト-疾風伝 ED ふりがな付 - うたてん
-        url: https://utaten.com/lyric/jb71101135/
+      - name: utaten日语歌词
+        url: https://utaten.com/lyric
+        icon: fas fa-link
+        description: ""
+      - name: 无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网
+        url: https://flac.life/
         icon: fas fa-link
         description: ""
       - name: 网易云无损解析
@@ -526,20 +522,12 @@ categories:
         url: https://music.unmeta.cn/
         icon: fas fa-link
         description: ""
-      - name: 无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网
-        url: https://flac.life/
-        icon: fas fa-link
-        description: ""
       - name: 清绝 - 全民K歌
         url: https://kg.qq.com/node/personal?uid=659d9583252e3f8a33
         icon: fas fa-link
         description: ""
       - name: 5sing音乐
         url: https://5sing.kugou.com/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 绕过使用真实美国号码的短信和文本验证 - daisySMS --- Bypass SMS and Text Verification With Real USA Numbers - daisySMS
-        url: https://daisysms.com/#features
         icon: fas fa-link
         description: ""
   - name: 同人
@@ -663,7 +651,7 @@ categories:
         url: https://www.tldraw.com/
         icon: fas fa-link
         description: ""
-  - name: 🎨配色
+  - name: 🌈配色
     icon: fas fa-folder
     sites:
       - name: zhongguose － 传统颜色
@@ -692,7 +680,7 @@ categories:
   - name: 🎥直播
     icon: fas fa-folder
     sites:
-      - name: 隐私错误
+      - name: 跨播插件
         url: https://www.kuabo.cn/
         icon: fas fa-link
         description: ""
