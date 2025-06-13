@@ -5,13 +5,13 @@ keywords: "导航,网址,书签,个人主页"
 
 # 个人资料配置
 profile:
-  title: "清绝导航站"
-  subtitle: "我收藏的精选网站"
-  description: "这是一个用于快速访问常用网站的个人导航页面。"
+  title: "Hello,"
+  subtitle: "Welcome to My Navigation"
+  description: "这是清绝的个人导航页面"
 
 # 主题和样式设置
 theme:
-  default: "dark"
+  default: "light"
   toggleIcon: true
   
 # 字体配置
