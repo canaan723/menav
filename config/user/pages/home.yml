@@ -23,42 +23,42 @@ categories:
       - name: 密码管理器
         url: https://password-manager.qingjue723.workers.dev/
         icon: fas fa-key
-        description: 安全的密码存储、智能填充、云备份同步
+        description: 安全的密码存储/智能填充/云备份同步
       - name: 图床
         url: https://cloudflare-imgbed-6fi.pages.dev/
         icon: fas fa-images
-        description: 用来给markdown加图片、视频、音频
+        description: 用来保管要插入博文的图片/视频/音频等
   - name: 来用AI
     icon: fas fa-robot
     sites:
       - name: ChatGPT
         url: https://chatgpt.com/
         icon: fas fa-robot
-        description: 玉玉的时候多亏G老师开导
+        description: G老师说话最好听
       - name: Gemini
         url: https://gemini.google.com/app
         icon: fas fa-robot
-        description: 很好用的哈基米
+        description: 最好用的哈基米
       - name: Google AI Studio
         url: https://aistudio.google.com/prompts/new_chat
         icon: fas fa-robot
-        description: 哈基米专业版
-      - name: LMArena 大模型竞技场
+        description: 最好用的哈基米专业版
+      - name: 大模型竞技场
         url: https://lmarena.ai/
         icon: fas fa-scale-balanced
-        description: 大模型的试用、评分、排名
+        description: 大模型的试用/评分/排名
       - name: DeepSeek
         url: https://chat.deepseek.com/
         icon: fas fa-robot
-        description: 
+        description: 中文很好的小鲸鱼
       - name: Claude
         url: https://claude.ai/recents
         icon: fas fa-robot
-        description: 写代码很厉害，但是免费额度不够用呀
+        description: 写代码很厉害 但是免费额度不够用呀
       - name: Grok
         url: https://grok.com/chat
         icon: fas fa-robot
-        description: 没有审核...
+        description: 没有审核 可以搞黄
       - name: RawChat公益站点
         url: https://sharedchat.fun/
         icon: fas fa-robot
