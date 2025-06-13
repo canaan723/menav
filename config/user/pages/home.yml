@@ -92,7 +92,7 @@ categories:
         description: 全球最大的代码托管平台，开发者的宝库
       - name: Hugging Face
         url: https://huggingface.co/
-        icon: fab fa-hugging-face
+        icon: fas fa-face-laugh-beam
         description: 领先的AI模型、数据集与应用社区
       - name: Cloudflare
         url: https://dash.cloudflare.com
