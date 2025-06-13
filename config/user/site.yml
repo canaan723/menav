@@ -1,13 +1,13 @@
 # 网站基本信息
-title: "清绝个人导航"
+title: "清绝导航站"
 description: "个人收藏的网站导航页"
 keywords: "导航,网址,书签,个人主页"
 
 # 个人资料配置
 profile:
-  title: "Hello,"
-  subtitle: "Welcome to My Navigation"
-  description: "这是清绝的个人导航页面"
+  title: "> Qingjue"
+  subtitle: "Executing Navigation Sequence..."
+  description: "一个个人导航站。// My Entry Point"
 
 # 主题和样式设置
 theme:
