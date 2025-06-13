@@ -1,5 +1,5 @@
 # 网站基本信息
-title: "清绝的导航站"
+title: "清绝的导航站"                      
 description: "个人收藏的网站导航页"
 keywords: "导航,网址,书签,个人主页"
 
@@ -14,10 +14,20 @@ theme:
   default: "light"
   toggleIcon: true
   
-# 字体配置
+# 字体设置
 fonts:
-  title: "Roboto, sans-serif"
-  content: "Noto Sans SC, sans-serif"
+  title:  # 标题字体设置
+    family: "Source Han Sans CN"  # 字体名称
+    weight: 700       # 字重值：400常规、500中等、700粗体
+    source: "google"  # 字体来源：google或system
+  subtitle:  # 副标题字体
+    family: "Source Han Sans CN"
+    weight: 500
+    source: "google"
+  body:  # 正文字体
+    family: "Source Han Sans CN"
+    weight: 400
+    source: "google"
   
 # 社交媒体链接
 social:
