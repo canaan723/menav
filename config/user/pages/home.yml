@@ -6,7 +6,7 @@ template: home
 
 categories:
   - name: 我的私人网站
-    icon: fas fa-house-user
+    icon: fas fa-server
     sites:
       - name: LivreTV
         url: https://qingjue-tv.pages.dev/
@@ -14,7 +14,7 @@ categories:
         description: 免费在线视频搜索与观看平台
       - name: CloudPaste
         url: https://cloudpaste-frontend-2yc.pages.dev/
-        icon: fas fa-file-lines
+        icon: fas fa-paste
         description: 在线文本/大文件分享平台
       - name: 密码管理器
         url: https://password-manager.qingjue723.workers.dev/
@@ -26,22 +26,22 @@ categories:
         description: 用来保管要插入博文的图片/视频/音频等
       - name: NodeCrypt
         url: https://nodecrypt1.qingjue723.workers.dev/
-        icon: fas fa-comments
+        icon: fas fa-user-secret
         description: 端到端加密的安全网页聊天
   - name: 伟大的人工智能
-    icon: fas fa-robot
+    icon: fas fa-brain
     sites:
       - name: ChatGPT
         url: https://chatgpt.com/
-        icon: fas fa-robot
+        icon: fab fa-openai
         description: 最好的心理疏导老师
       - name: Gemini
         url: https://gemini.google.com/app
-        icon: fas fa-robot
+        icon: fab fa-google
         description: 最好用的哈基米
       - name: Google AI Studio
         url: https://aistudio.google.com/prompts/new_chat
-        icon: fas fa-robot
+        icon: fas fa-flask
         description: 最好用的哈基米二号
       - name: 大模型竞技场
         url: https://lmarena.ai/
@@ -49,30 +49,30 @@ categories:
         description: 大模型的试用/评分/排名
       - name: DeepSeek
         url: https://chat.deepseek.com/
-        icon: fas fa-robot
+        icon: fas fa-lightbulb
         description: 中文很好的小鲸鱼
       - name: Claude
         url: https://claude.ai/recents
-        icon: fas fa-robot
+        icon: fas fa-file-lines
         description: 写代码很厉害 但是免费额度不够用呀
       - name: Grok
         url: https://grok.com/chat
-        icon: fas fa-robot
+        icon: fab fa-xing
         description: 没有审核 可以搞黄
       - name: RawChat公益站点
         url: https://sharedchat.fun/
-        icon: fas fa-robot
+        icon: fas fa-hand-holding-heart
         description: 第三方Gpt公益站
       - name: Deep Ask 深思所问
         url: https://deepask.cc/
-        icon: fas fa-robot
+        icon: fas fa-magnifying-glass-chart
         description: 第三方各种模型站点
       - name: NotebookLM
         url: https://notebooklm.google.com/
         icon: fas fa-book-open-reader
         description: Google旗下在线知识库 访谈功能惊艳
   - name: 一些常用网站
-    icon: fas fa-wrench
+    icon: fas fa-star
     sites:
       - name: Linux Do
         url: https://linux.do/
