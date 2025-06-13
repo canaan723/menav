@@ -1,11 +1,26 @@
 # 网站基本信息
-title: "清绝的导航站"         # 网站标题，显示在浏览器标签页
-description: "一个属于我自己的网址导航"  # 网站描述
-author: "清绝"             # 作者姓名
-logo_text: "我的主页"         # 网站左上角显示的文字
+title: "清绝个人导航"
+description: "个人收藏的网站导航页"
+keywords: "导航,网址,书签,个人主页"
 
-# 个人资料配置 (首页大标题)
+# 个人资料配置
 profile:
-  title: "欢迎来到我的空间"
-  subtitle: "这里收藏了我最常用的网站"
-  description: "保持探索，保持热爱！"
+  title: "清绝导航站"
+  subtitle: "我收藏的精选网站"
+  description: "这是一个用于快速访问常用网站的个人导航页面。"
+
+# 主题和样式设置
+theme:
+  default: "dark"
+  toggleIcon: true
+  
+# 字体配置
+fonts:
+  title: "Roboto, sans-serif"
+  content: "Noto Sans SC, sans-serif"
+  
+# 社交媒体链接
+social:
+  - name: "Bilibili"
+    url: "https://space.bilibili.com/4296615"
+    icon: "fa-brands fa-bilibili"
