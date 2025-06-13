@@ -23,7 +23,7 @@ categories:
       - name: 密码管理器
         url: https://password-manager.qingjue723.workers.dev/
         icon: fas fa-key
-        description: 
+        description: 安全的密码存储、智能填充、云备份同步
       - name: 图床
         url: https://cloudflare-imgbed-6fi.pages.dev/
         icon: fas fa-images
