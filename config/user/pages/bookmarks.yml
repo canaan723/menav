@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-13T06:17:28.222Z
+# 由bookmark-processor.js生成于 2025-06-13T06:37:22.616Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -379,6 +379,13 @@ categories:
         url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
         icon: fab fa-wikipedia-w
         description: ""
+  - name: 🧬医疗知识
+    icon: fas fa-folder
+    sites:
+      - name: 中国医药信息查询平台-国家权威认证全类型医药信息查询平台
+        url: https://www.dayi.org.cn/
+        icon: fas fa-link
+        description: ""
   - name: 🧾高考分数
     icon: fas fa-folder
     sites:
@@ -506,6 +513,10 @@ categories:
   - name: 🎵音乐
     icon: fas fa-folder
     sites:
+      - name: Moodist：环境声音促进专注和平静
+        url: https://moodist.mvze.net/
+        icon: fas fa-link
+        description: ""
       - name: utaten日语歌词
         url: https://utaten.com/lyric
         icon: fas fa-link
@@ -520,10 +531,6 @@ categories:
         description: ""
       - name: 音乐迁移-GoMusic
         url: https://music.unmeta.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 清绝 - 全民K歌
-        url: https://kg.qq.com/node/personal?uid=659d9583252e3f8a33
         icon: fas fa-link
         description: ""
       - name: 5sing音乐
@@ -761,7 +768,7 @@ categories:
         url: https://www.nosetime.com/
         icon: fas fa-link
         description: ""
-  - name: 🗒️我的个人网站
+  - name: ❤️ 个人主页
     icon: fas fa-folder
     sites:
       - name: 我的图床
@@ -804,20 +811,12 @@ categories:
         url: https://qingjue.bearblog.dev/
         icon: fas fa-link
         description: ""
+      - name: 清绝 - 全民K歌
+        url: https://kg.qq.com/node/personal?uid=659d9583252e3f8a33
+        icon: fas fa-link
+        description: ""
       - name: 印象笔记
         url: https://app.yinxiang.com/Login.action?targetUrl=%2Fclient%2Fweb#?an=true&amp;
-        icon: fas fa-link
-        description: ""
-      - name: 哀伤疗愈
-        url: https://book5.fanyeshu.cn/oss/dK9pNU/?continueFlag=c60959fbe18d3369f0b4f533096eff68
-        icon: fas fa-link
-        description: ""
-      - name: Moodist：环境声音促进专注和平静
-        url: https://moodist.mvze.net/
-        icon: fas fa-link
-        description: ""
-      - name: 中国医药信息查询平台-国家权威认证全类型医药信息查询平台
-        url: https://www.dayi.org.cn/
         icon: fas fa-link
         description: ""
   - name: 🗂 工作用
