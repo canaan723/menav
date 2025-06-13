@@ -28,6 +28,10 @@ categories:
         url: https://nodecrypt1.qingjue723.workers.dev/
         icon: fas fa-user-secret
         description: 端到端加密网页聊天室，阅后即焚
+      - name: Sublink订阅转换
+        url: https://sublink-worker.qingjue723.workers.dev/
+        icon: fas fa-exchange-alt
+        description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
   - name: 伟大的人工智能
     icon: fas fa-brain
     sites:
