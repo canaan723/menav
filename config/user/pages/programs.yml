@@ -118,7 +118,7 @@ categories:
         url: https://weixin.qq.com/
       - name: QQ
         icon: fab fa-qq
-        description: 不得不用的设计软件
+        description: 不得不用的社交软件
         url: https://im.qq.com/index/
       - name: YY
         icon: fas fa-microphone
@@ -138,19 +138,19 @@ categories:
         url: https://www.filecxx.com/zh_CN/
       - name: 百度网盘
         icon: fas fa-cloud-download-alt
-        description: 用户量巨大的个人云盘，资源分享与备份中心
+        description: 不得不用的网盘
         url: https://pan.baidu.com/download#win
       - name: 夸克网盘
         icon: fas fa-cloud
-        description: 夸克浏览器内置网盘，主打高速下载与在线播放
+        description: 88VIP送的网盘
         url: https://pan.quark.cn/
       - name: 123云盘
         icon: fas fa-share-square
-        description: 主打不限速分享与下载的云盘，专注大文件传输
+        description: 123云盘
         url: https://www.123pan.com/Downloadclient
       - name: 阿里云盘
         icon: fas fa-rocket
-        description: 阿里出品，主打“不限速”的个人云盘
+        description: 阿里云盘
         url: https://www.alipan.com/
       - name: LocalSend
         icon: fas fa-wifi
