@@ -70,7 +70,7 @@ categories:
       - name: NotebookLM
         url: https://notebooklm.google.com/
         icon: fas fa-book-open-reader
-        description: 在线知识库，访谈功能惊艳
+        description: Google旗下在线知识库 访谈功能惊艳
   - name: 一些常用的网站
     icon: fas fa-wrench
     sites:
