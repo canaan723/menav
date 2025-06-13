@@ -49,7 +49,7 @@ categories:
         description: 大模型在线试用、打分与匿名排名
       - name: DeepSeek
         url: https://chat.deepseek.com/
-        icon: fas fa-whale
+        icon: fas fa-lightbulb
         description: 中文很好的小鲸鱼
       - name: Claude
         url: https://claude.ai/recents
@@ -57,7 +57,7 @@ categories:
         description: 写代码很厉害，但免费额度不够用呀
       - name: Grok
         url: https://grok.com/chat
-        icon: fab fa-x-twitter
+        icon: fab fa-twitter
         description: 没有审核，可以搞黄
       - name: RawChat公益站点
         url: https://sharedchat.fun/
