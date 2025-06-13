@@ -20,6 +20,10 @@ categories:
         url: https://password-manager.qingjue723.workers.dev/
         icon: fas fa-key
         description: 安全的密码存储、智能填充、云备份同步
+      - name: Writo-TTS V2
+        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        icon: fas fa-volume-up
+        description: 免费在线文字转语音，支持72+语言与多种声音选择
       - name: 图床
         url: https://cloudflare-imgbed-6fi.pages.dev/
         icon: fas fa-images
@@ -86,6 +90,10 @@ categories:
         url: https://github.com/
         icon: fab fa-github
         description: 全球最大的代码托管平台，开发者的宝库
+      - name: Hugging Face
+        url: https://huggingface.co/
+        icon: fab fa-hugging-face
+        description: 领先的AI模型、数据集与应用社区
       - name: Cloudflare
         url: https://dash.cloudflare.com
         icon: fab fa-cloudflare
