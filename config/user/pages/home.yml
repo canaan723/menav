@@ -34,7 +34,7 @@ categories:
       - name: ChatGPT
         url: https://chatgpt.com/
         icon: fas fa-robot
-        description: G老师说话最好听
+        description: 最好的心理疏导老师
       - name: Gemini
         url: https://gemini.google.com/app
         icon: fas fa-robot
@@ -42,7 +42,7 @@ categories:
       - name: Google AI Studio
         url: https://aistudio.google.com/prompts/new_chat
         icon: fas fa-robot
-        description: 最好用的哈基米专业版
+        description: 最好用的哈基米二号
       - name: 大模型竞技场
         url: https://lmarena.ai/
         icon: fas fa-scale-balanced
@@ -77,7 +77,7 @@ categories:
       - name: Linux Do
         url: https://linux.do/
         icon: fab fa-linux
-        description: 有关AI、开发、羊毛的社区
+        description: 有关AI/开发/羊毛的社区
       - name: Github
         url: https://github.com/
         icon: fab fa-github
