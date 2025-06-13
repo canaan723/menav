@@ -5,3 +5,6 @@
 - name: 软件
   icon: fas fa-project-diagram
   id: programs
+- name: 书签
+  icon: fas fa-bookmark
+  id: bookmarks 
