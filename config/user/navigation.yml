@@ -3,7 +3,7 @@
   id: home
   active: true
 - name: 软件
-  icon: fas fa-project-diagram
+  icon: fas fa-cube
   id: programs
 - name: 书签
   icon: fas fa-bookmark
