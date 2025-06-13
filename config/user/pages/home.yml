@@ -5,17 +5,13 @@ subtitle: 个人导航站点
 template: home
 
 categories:
-  - name: 来我的网站看看吧
+  - name: 我的私人网站
     icon: fas fa-house-user
     sites:
       - name: LivreTV
         url: https://qingjue-tv.pages.dev/
         icon: fas fa-tv
         description: 免费在线视频搜索与观看平台
-      - name: NodeCrypt
-        url: https://nodecrypt1.qingjue723.workers.dev/
-        icon: fas fa-comments
-        description: 端到端加密的安全网页聊天
       - name: CloudPaste
         url: https://cloudpaste-frontend-2yc.pages.dev/
         icon: fas fa-file-lines
@@ -28,7 +24,11 @@ categories:
         url: https://cloudflare-imgbed-6fi.pages.dev/
         icon: fas fa-images
         description: 用来保管要插入博文的图片/视频/音频等
-  - name: 来用AI
+      - name: NodeCrypt
+        url: https://nodecrypt1.qingjue723.workers.dev/
+        icon: fas fa-comments
+        description: 端到端加密的安全网页聊天
+  - name: 伟大的人工智能
     icon: fas fa-robot
     sites:
       - name: ChatGPT
@@ -71,7 +71,7 @@ categories:
         url: https://notebooklm.google.com/
         icon: fas fa-book-open-reader
         description: Google旗下在线知识库 访谈功能惊艳
-  - name: 一些常用的网站
+  - name: 一些常用网站
     icon: fas fa-wrench
     sites:
       - name: Linux Do
