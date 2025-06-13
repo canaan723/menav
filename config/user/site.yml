@@ -18,11 +18,11 @@ theme:
 fonts:
   title:  # 标题字体设置
     family: "Source Han Sans CN"  # 字体名称
-    weight: 700       # 字重值：400常规、500中等、700粗体
+    weight: 500       # 字重值：400常规、500中等、700粗体
     source: "google"  # 字体来源：google或system
   subtitle:  # 副标题字体
     family: "Source Han Sans CN"
-    weight: 500
+    weight: 700
     source: "google"
   body:  # 正文字体
     family: "Source Han Sans CN"
