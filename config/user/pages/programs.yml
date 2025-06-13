@@ -6,7 +6,7 @@ template: projects
 
 categories:
   - name: 文件与系统工具
-    icon: fas fa-folder-open
+    icon: fas fa-cogs
     sites:
       - name: OneCommander
         icon: fas fa-folder-open
@@ -40,6 +40,10 @@ categories:
         icon: fas fa-crop-alt
         description: 一款功能强大的截图工具，集截图、贴图、长截图、OCR文字识别和标注等多种功能于一体。它轻巧易用，能显著提升用户处理屏幕截图的效率。
         url: https://pixpin.cn/
+      - name: 按键精灵
+        icon: fas fa-robot
+        description: 一款模拟键鼠操作的自动化软件。用户可以录制或编写脚本，让电脑自动执行一系列重复性的键盘和鼠标操作，广泛应用于游戏辅助和日常办公自动化。
+        url: https://download.myanjian.com/
       - name: QtScrcpy
         icon: fas fa-mobile-alt
         description: 一款基于Scrcpy开发的安卓投屏和控制软件。它通过USB或Wi-Fi连接，可将安卓设备屏幕实时显示在电脑上，并支持用键鼠进行操作，界面友好，功能丰富。
@@ -76,6 +80,10 @@ categories:
         icon: fas fa-file-pdf
         description: 一款功能丰富的PDF查看和编辑软件。除了基础的阅读和注释功能外，还支持OCR文字识别、页面操作和表单填写等高级功能，是处理PDF文件的强大工具。
         url: https://4fb.cn/soft/pc/1753.html
+      - name: MinerU
+        icon: fas fa-microscope
+        description: 一款开源的PDF文档解析工具，能将PDF转换为机器可读的Markdown或JSON格式。它专注于精准提取文本、表格、图片及LaTeX公式，并保留文档的原始结构（如标题、列表），支持处理复杂版式和OCR识别扫描件。
+        url: https://github.com/opendatalab/MinerU
       - name: Calibre
         icon: fas fa-book-reader
         description: 一款功能强大的开源电子书管理软件。它集电子书阅读、格式转换、书库整理、新闻抓取等功能于一体，是电子书爱好者的必备工具。
@@ -84,6 +92,10 @@ categories:
         icon: fas fa-spell-check
         description: 一款支持EPWING等多种格式的电子词典软件。它允许用户加载本地词典文件进行离线查词，功能强大，响应迅速，是语言学习和研究的好帮手。
         url: https://www.vector.co.jp/download/file/winnt/writing/fh772378.html
+      - name: Cherry Studio
+        icon: fas fa-brain
+        description: 一款集多模型对话、知识库、AI绘画、翻译等功能于一体的AI助手平台。它聚合了OpenAI、Gemini等主流服务商，支持高度自定义界面与功能，旨在为用户提供一站式的AI工作与创作体验。
+        url: https://www.cherry-ai.com/download
       - name: OBS Studio
         icon: fas fa-video
         description: 一款免费且开源的视频录制和直播推流软件。它功能强大，支持多场景切换、混音和滤镜等，是游戏直播、在线教育和视频创作的专业工具。
@@ -92,10 +104,10 @@ categories:
         icon: fas fa-microphone-alt
         description: 一款基于OpenAI Whisper的桌面客户端，可将音频和麦克风输入实时转录为文字。支持离线运行，能够高效地为音频文件和实时语音生成字幕或文本记录。
         url: https://github.com/chidiwilliams/buzz/releases
-      - name: 按键精灵
-        icon: fas fa-robot
-        description: 一款模拟键鼠操作的自动化软件。用户可以录制或编写脚本，让电脑自动执行一系列重复性的键盘和鼠标操作，广泛应用于游戏辅助和日常办公自动化。
-        url: https://download.myanjian.com/
+      - name: MSST WebUI
+        icon: fas fa-volume-up
+        description: 一个基于VITS模型的语音合成WebUI项目。它允许用户通过简单的网页界面，利用AI技术生成高质量、自然流畅的语音，支持多种音色和语言。
+        url: https://github.com/SUC-DriverOld/MSST-WebUI/releases
 
   - name: 网络与通讯
     icon: fas fa-globe-asia
@@ -108,6 +120,14 @@ categories:
         icon: fab fa-qq
         description: 腾讯公司推出的主流即时通讯软件。提供文字、语音和视频聊天功能，支持大文件传输、群组社交和在线支付等服务，是国内广泛使用的社交和工作平台。
         url: https://im.qq.com/index/
+      - name: TeamSpeak 3
+        icon: fas fa-headset
+        description: 一款专业的语音通信软件，以其低系统占用、高音质和稳定性著称，是许多职业电竞比赛和游戏团队的首选。用户需连接到服务器以创建或加入语音频道。
+        url: https://teamspeak.com/zh-CN/downloads/#ts3client
+      - name: YY
+        icon: fas fa-microphone
+        description: 一款集团队语音和娱乐直播于一体的社交平台。最初作为游戏语音工具而闻名，现已发展为包含各类秀场直播、游戏直播和在线教育等内容的综合性平台。
+        url: https://www.yy.com/pcyy/
       - name: Internet Download Manager
         icon: fas fa-download
         description: 一款经典且强大的多线程下载工具（IDM）。通过将文件分割成多个部分同时下载来提升下载速度，支持断点续传、浏览器集成和视频嗅探功能。
@@ -144,7 +164,7 @@ categories:
         icon: fas fa-network-wired
         description: 一款用于检查和管理机场订阅链接的工具。它可以检测节点的可用性、延迟和速度，并提供订阅信息查询、流量统计和格式转换等功能。
         url: https://github.com/cmliu/SubsCheck-Win-GUI/releases
-        
+
   - name: 影音与娱乐
     icon: fas fa-photo-video
     sites:
@@ -152,6 +172,10 @@ categories:
         icon: fas fa-play-circle
         description: 一款功能强大的全能视频播放器。内置强大的解码器，支持播放绝大多数格式的音视频文件，提供丰富的自定义选项和优秀的播放性能。
         url: https://potplayer.daum.net/?lang=zh_CN
+      - name: Honeyview
+        icon: fas fa-image
+        description: 一款轻量、快速的图片浏览器。支持查看包括RAW在内的多种图像格式，并能直接浏览压缩包内的图片，提供流畅的看图和漫画阅读体验。
+        url: https://www.bandisoft.com/honeyview/
       - name: 洛雪音乐
         icon: fas fa-music
         description: 一款开源的桌面音乐播放器，聚合了多个音乐平台的资源，提供强大的搜索功能和高品质的音乐播放体验，界面简洁美观。
@@ -160,40 +184,15 @@ categories:
         icon: fas fa-headphones-alt
         description: 一款以歌单、评论和个性化推荐为特色的音乐播放器。拥有独特的社区氛围和精准的算法推荐，用户可以发现和分享音乐，并与其他音乐爱好者互动。
         url: https://music.163.com/#/download
-      - name: Honeyview
-        icon: fas fa-image
-        description: 一款轻量、快速的图片浏览器。支持查看包括RAW在内的多种图像格式，并能直接浏览压缩包内的图片，提供流畅的看图和漫画阅读体验。
-        url: https://www.bandisoft.com/honeyview/
-      - name: Steam
-        icon: fab fa-steam
-        description: 全球最大的PC游戏数字发行平台。玩家可以在此购买、下载、讨论、和玩游戏。集成了游戏商店、社交网络、创意工坊和自动更新等功能。
-        url: https://store.steampowered.com/about/
-      - name: MinerU
-        icon: fas fa-chart-bar
-        description: 一个专注于多款游戏的游戏社区和数据平台。玩家可以在这里分享经验、查询战绩、寻找队友，并获取最新的游戏资讯和攻略。
-        url: https://mineru.net/client
-      - name: TeamSpeak 3
-        icon: fas fa-headset
-        description: 一款专业的语音通信软件，以其低系统占用、高音质和稳定性著称，是许多职业电竞比赛和游戏团队的首选。用户需连接到服务器以创建或加入语音频道。
-        url: https://teamspeak.com/zh-CN/downloads/#ts3client
-      - name: YY
-        icon: fas fa-microphone
-        description: 一款集团队语音和娱乐直播于一体的社交平台。最初作为游戏语音工具而闻名，现已发展为包含各类秀场直播、游戏直播和在线教育等内容的综合性平台。
-        url: https://www.yy.com/pcyy/
       - name: Simple Live
         icon: fas fa-tv
         description: 一款聚合多个直播平台的观看工具，支持免登录观看B站、斗鱼、虎牙、抖音等主流平台的直播内容，提供简洁、一站式的观看体验。
         url: https://github.com/xiaoyaocz/dart_simple_live/releases
-      - name: Cherry Studio
-        icon: fas fa-vr-cardboard
-        description: 一款面向VTuber和内容创作者的虚拟形象解决方案。提供高精度的面部和动作捕捉功能，支持自定义模型，帮助用户轻松创建生动的虚拟直播内容。
-        url: https://www.cherry-ai.com/download
-      - name: MSST WebUI
-        icon: fas fa-volume-up
-        description: 一个基于VITS模型的语音合成WebUI项目。它允许用户通过简单的网页界面，利用AI技术生成高质量、自然流畅的语音，支持多种音色和语言。
-        url: https://github.com/SUC-DriverOld/MSST-WebUI/releases
+      - name: Steam
+        icon: fab fa-steam
+        description: 全球最大的PC游戏数字发行平台。玩家可以在此购买、下载、讨论、和玩游戏。集成了游戏商店、社交网络、创意工坊和自动更新等功能。
+        url: https://store.steampowered.com/about/
       - name: BongoCat
         icon: fas fa-cat
         description: 一款可爱的桌面宠物应用，能够实时反映用户的键盘和鼠标操作。它以一只猫咪的动画形式展示按键和鼠标移动，常用于直播或录屏，增加趣味性。
         url: https://github.com/ayangweb/BongoCat/releases
-
