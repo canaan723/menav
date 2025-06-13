@@ -6,17 +6,17 @@ template: projects
 
 categories:
   - name: 软件推荐
-    icon: fas fa-code
+    icon: fas fa-layer-group
     sites:
       - name: OneCommander
-        icon: fas fa-compass
+        icon: fas fa-layer-group
         description: 一款美观且功能强大的文件资源管理器替代品。支持多标签、双栏布局、层级导航、文件快速预览和历史记录等功能，提升文件管理效率。免费版功能已足够日常使用。
         url: https://www.onecommander.com/
       - name: ReNamer Pro
-        icon: fas fa-tasks
+        icon: fas fa-layer-group
         description: 强大的批量文件重命名工具，支持用户自定义多种复杂的命名规则，可以快速、轻松地一次性重命名大量文件，极大提高工作效率。
         url: https://4fb.cn/soft/pc/2456.html
       - name: 酷呆桌面
-        icon: fas fa-blog
+        icon: fas fa-layer-group
         description: 一款高效的桌面整理工具，能够帮助用户将桌面上的图标和文件进行分区和归类，保持桌面整洁有序，提升工作效率。旧版免费，新版提供付费永久授权。
         url: https://www.coodesker.com/purchase
