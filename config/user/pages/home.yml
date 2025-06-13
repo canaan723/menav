@@ -11,86 +11,86 @@ categories:
       - name: LivreTV
         url: https://qingjue-tv.pages.dev/
         icon: fas fa-tv
-        description: 免费在线视频搜索与观看平台
+        description: 影视资源搜索与在线播放。
       - name: CloudPaste
         url: https://cloudpaste-frontend-2yc.pages.dev/
         icon: fas fa-paste
-        description: 在线文本/大文件分享平台
+        description: Markdown文本和文件分享，可设定密码、过期时间、访问次数。
       - name: 密码管理器
         url: https://password-manager.qingjue723.workers.dev/
         icon: fas fa-key
-        description: 安全的密码存储/智能填充/云备份同步
+        description: 安全的密码存储、智能填充、云备份同步。
       - name: 图床
         url: https://cloudflare-imgbed-6fi.pages.dev/
         icon: fas fa-images
-        description: 用来保管要插入博文的图片/视频/音频等
+        description: 用于存储和管理笔记、网页所需的图片、音视频文件。
       - name: NodeCrypt
         url: https://nodecrypt1.qingjue723.workers.dev/
         icon: fas fa-user-secret
-        description: 端到端加密的安全网页聊天
+        description: 端到端加密的网页在线聊天室，阅后即焚。
   - name: 伟大的人工智能
     icon: fas fa-brain
     sites:
       - name: ChatGPT
         url: https://chatgpt.com/
         icon: fab fa-openai
-        description: 最好的心理疏导老师
+        description: 最好的心理疏导老师。
       - name: Gemini
         url: https://gemini.google.com/app
         icon: fab fa-google
-        description: 最好用的哈基米
+        description: 最好用的哈基米。
       - name: Google AI Studio
         url: https://aistudio.google.com/prompts/new_chat
         icon: fas fa-flask
-        description: 最好用的哈基米二号
+        description: 最好用的哈基米二号。
       - name: 大模型竞技场
         url: https://lmarena.ai/
         icon: fas fa-scale-balanced
-        description: 大模型的试用/评分/排名
+        description: 大模型的试用、打分、排名。
       - name: DeepSeek
         url: https://chat.deepseek.com/
         icon: fas fa-lightbulb
-        description: 中文很好的小鲸鱼
+        description: 中文很好的小鲸鱼。
       - name: Claude
         url: https://claude.ai/recents
         icon: fas fa-file-lines
-        description: 写代码很厉害 但是免费额度不够用呀
+        description: 写代码很厉害，但是免费额度不够用呀。
       - name: Grok
         url: https://grok.com/chat
         icon: fab fa-xing
-        description: 没有审核 可以搞黄
+        description: 没有审核，可以搞黄。
       - name: RawChat公益站点
         url: https://sharedchat.fun/
         icon: fas fa-hand-holding-heart
-        description: 第三方Gpt公益站
+        description: 第三方Gpt公益站。
       - name: Deep Ask 深思所问
         url: https://deepask.cc/
         icon: fas fa-magnifying-glass-chart
-        description: 第三方各种模型站点
+        description: 第三方各种模型站点。
       - name: NotebookLM
         url: https://notebooklm.google.com/
         icon: fas fa-book-open-reader
-        description: Google旗下在线知识库 访谈功能惊艳
+        description: Google推出的在线知识库工具，可上传文档并基于内容进行智能问答，访谈功能惊艳。
   - name: 一些常用网站
     icon: fas fa-star
     sites:
       - name: Linux Do
         url: https://linux.do/
         icon: fab fa-linux
-        description: 有关AI/开发/羊毛的社区
+        description: 一个活跃的技术社区，话题涵盖AI、编程开发和各类资源分享。
       - name: Github
         url: https://github.com/
         icon: fab fa-github
-        description: 忙忙碌碌寻宝藏
+        description: 全球最大的代码托管和开源协作平台，开发者的技术宝库。
       - name: Cloudflare
         url: https://dash.cloudflare.com
         icon: fab fa-cloudflare
-        description: 感谢有你温暖了四季
+        description: 全球领先的网络性能与安全服务商，为个人网站提供加速与防护。
       - name: Bilibili
         url: https://www.bilibili.com/
         icon: fab fa-bilibili
-        description: 知名学习网站
+        description: 知名学习网站。
       - name: Youtube
         url: https://www.youtube.com/
         icon: fab fa-youtube
-        description: 知名学习网站二号
+        description: 知名学习网站二号。
