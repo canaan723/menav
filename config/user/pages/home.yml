@@ -33,7 +33,7 @@ categories:
     sites:
       - name: ChatGPT
         url: https://chatgpt.com/
-        icon: fab fa-openai
+        icon: fas fa-comment-dots
         description: 最好的心理疏导老师。
       - name: Gemini
         url: https://gemini.google.com/app
@@ -49,23 +49,23 @@ categories:
         description: 大模型的试用、打分、排名。
       - name: DeepSeek
         url: https://chat.deepseek.com/
-        icon: fas fa-lightbulb
+        icon: fas fa-whale
         description: 中文很好的小鲸鱼。
       - name: Claude
         url: https://claude.ai/recents
-        icon: fas fa-file-lines
+        icon: fas fa-code
         description: 写代码很厉害，但是免费额度不够用呀。
       - name: Grok
         url: https://grok.com/chat
-        icon: fab fa-xing
+        icon: fab fa-x-twitter
         description: 没有审核，可以搞黄。
       - name: RawChat公益站点
         url: https://sharedchat.fun/
-        icon: fas fa-hand-holding-heart
+        icon: fas fa-comment-dots
         description: 第三方Gpt公益站。
       - name: Deep Ask 深思所问
         url: https://deepask.cc/
-        icon: fas fa-magnifying-glass-chart
+        icon: fas fa-robot
         description: 第三方各种模型站点。
       - name: NotebookLM
         url: https://notebooklm.google.com/
