@@ -1,0 +1,96 @@
+title: 欢迎使用
+subtitle: 个人导航站点
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: home
+
+categories:
+  - name: 来我的网站看看吧
+    icon: fas fa-star
+    sites:
+      - name: LivreTV
+        url: https://qingjue-tv.pages.dev/
+        icon: fab fa-linux
+        description: 免费在线视频搜索与观看平台
+      - name: NodeCrypt
+        url: https://nodecrypt1.qingjue723.workers.dev/
+        icon: fab fa-google
+        description: 端到端加密的安全网页聊天
+      - name: CloudPaste
+        url: https://cloudpaste-frontend-2yc.pages.dev/
+        icon: fab fa-github
+        description: 在线文本/大文件分享平台
+      - name: 密码管理器
+        url: https://password-manager.qingjue723.workers.dev/
+        icon: fab fa-stack-overflow
+        description: 
+      - name: 图床
+        url: https://cloudflare-imgbed-6fi.pages.dev/
+        icon: fas fa-robot
+        description: 用来给markdown加图片、视频、音频
+  - name: 来用AI
+    icon: fas fa-tools
+    sites:
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-code
+        description: 玉玉的时候多亏G老师开导
+      - name: Gemini
+        url: https://gemini.google.com/app
+        icon: fas fa-paper-plane
+        description: 很好用的哈基米
+      - name: Google AI Studio
+        url: https://aistudio.google.com/prompts/new_chat
+        icon: fab fa-git-alt
+        description: 哈基米专业版
+      - name: LMArena 大模型竞技场
+        url: https://lmarena.ai/
+        icon: fab fa-docker
+        description: 大模型的试用、评分、排名
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fab fa-docker
+        description: 
+      - name: Claude
+        url: https://claude.ai/recents
+        icon: fab fa-docker
+        description: 写代码很厉害，但是免费额度不够用呀
+      - name: Grok
+        url: https://grok.com/chat
+        icon: fab fa-docker
+        description: 没有审核...
+      - name: RawChat公益站点
+        url: https://sharedchat.fun/
+        icon: fab fa-docker
+        description: 第三方Gpt公益站
+      - name: Deep Ask 深思所问
+        url: https://deepask.cc/
+        icon: fab fa-docker
+        description: 第三方各种模型站点
+      - name: NotebookLM
+        url: https://notebooklm.google.com/
+        icon: fab fa-docker
+        description: 在线知识库，访谈功能惊艳
+  - name: 一些常用的网站
+    icon: fas fa-wrench
+    sites:
+      - name: Linux Do
+        url: https://linux.do/
+        icon: fas fa-code-branch
+        description: 有关AI、开发、羊毛的社区
+      - name: Github
+        url: https://github.com/
+        icon: fas fa-browser
+        description: 忙忙碌碌寻宝藏
+      - name: Cloudflare
+        url: https://dash.cloudflare.com
+        icon: fas fa-compress
+        description: 感谢有你温暖了四季
+      - name: Bilibili
+        url: https://www.bilibili.com/
+        icon: fas fa-code
+        description: 知名学习网站
+      - name: Youtube
+        url: https://www.youtube.com/
+        icon: fas fa-code
+        description: 知名学习网站二号
