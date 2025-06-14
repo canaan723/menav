@@ -110,3 +110,7 @@ categories:
         url: https://www.youtube.com/
         icon: fab fa-youtube
         description: 知名学习网站二号
+      - name: Libre Search
+        url: https://so.ddns-ip.net/
+        icon: fas fa-search
+        description: 聚合多家引擎，保护隐私、无广告的开源元搜索引擎。
