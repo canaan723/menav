@@ -205,6 +205,11 @@ document.addEventListener('DOMContentLoaded', () => {
             icon: 'fas fa-search',
             url: null // 本地搜索不需要URL
         },
+         Libre: {
+            name: 'Libre Search',
+            icon: 'fas fa-search',
+            url: 'https://so.ddns-ip.net/search?q=%s'
+        },       
         google: {
             name: 'Google搜索',
             icon: 'fab fa-google',
