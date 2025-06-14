@@ -549,7 +549,7 @@ categories:
     icon: fas fa-folder
     sites:
       - name: 博人传漫画 - 留园
-        url: https://club.6parkbbs.com/enter6/index.php?act=threadsearch&amp;app=forum&amp;keywords=%E5%8D%9A%E4%BA%BA%E4%BC%A0
+        url: https://club.6parkbbs.com/enter6/index.php?act=threadsearch&app=forum&keywords=%E5%8D%9A%E4%BA%BA%E4%BC%A0
         icon: fas fa-link
         description: ""
       - name: 博人传BORUTO - MYCOMIC
