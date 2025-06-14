@@ -58,7 +58,7 @@ categories:
       - name: 大模型竞技场
         url: https://lmarena.ai/
         icon: fas fa-scale-balanced
-        description: 大模型在线试用、打分与匿名排名
+        description: 大模型在线试用、打分与排名
       - name: DeepSeek
         url: https://chat.deepseek.com/
         icon: fas fa-lightbulb
