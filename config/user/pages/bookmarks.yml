@@ -811,10 +811,6 @@ categories:
         url: https://prompt.always200.com/
         icon: fas fa-link
         description: ""
-      - name: Releases · localsend/localsend
-        url: https://github.com/localsend/localsend/releases
-        icon: fab fa-github
-        description: ""
       - name: hlwy api
         url: https://api.voct.dev/token
         icon: fas fa-link
