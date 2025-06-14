@@ -207,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
          Libre: {
             name: 'Libre Search',
-            icon: 'fas fa-search',
+            icon: 'fas fa-arrows-to-circle',
             url: 'https://so.ddns-ip.net/search?q=%s'
         },       
         google: {
