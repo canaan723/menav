@@ -36,6 +36,10 @@ categories:
         url: https://sublink-worker.qingjue723.workers.dev/
         icon: fas fa-exchange-alt
         description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
+      - name: Lama Cleaner
+        url: https://huggingface.co/spaces/canaan723/Lama-Cleaner-lama
+        icon: fas fa-eraser
+        description: AI智能擦除图片水印、文字、杂物等瑕疵
   - name: 伟大的人工智能
     icon: fas fa-brain
     sites:
