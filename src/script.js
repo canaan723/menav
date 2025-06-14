@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let isLightTheme = false; // 主题状态
     let isSidebarCollapsed = false; // 侧边栏折叠状态
     let pages; // 页面元素的全局引用
-    let currentSearchEngine = 'local'; // 当前选择的搜索引擎
+    let currentSearchEngine = 'Libre'; // 当前选择的搜索引擎
 
     // 搜索索引，用于提高搜索效率
     let searchIndex = {
