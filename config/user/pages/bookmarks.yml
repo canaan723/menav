@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-15T06:17:34.725Z
+# 由bookmark-processor.js生成于 2025-06-15T06:27:10.518Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -35,6 +35,65 @@ categories:
         description: ""
       - name: ui.edu.kg - 教育邮箱
         url: https://tmail.ui.edu.kg/user
+        icon: fas fa-link
+        description: ""
+  - name: ❤️ 个人项目
+    icon: fas fa-folder
+    sites:
+      - name: 清绝 - 导航站
+        url: https://qingjue-nav.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 图床
+        url: https://cloudflare-imgbed-6fi.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 密码管理
+        url: https://password-manager.qingjue723.workers.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 影视站
+        url: https://qingjue-tv.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 剪贴板
+        url: https://cloudpaste-frontend-2yc.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 订阅转换
+        url: https://sublink-worker.qingjue723.workers.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 聊天室
+        url: https://nodecrypt1.qingjue723.workers.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 文字转语音
+        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        icon: fas fa-link
+        description: ""
+      - name: 关键词交互分析报告 - ウスラトンカチ
+        url: https://qj-nrt.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 影视
+        url: https://qingjue.super.site/
+        icon: fas fa-link
+        description: ""
+      - name: Simplenote
+        url: https://app.simplenote.com/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝
+        url: https://qingjue.bearblog.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 清绝 - 全民K歌
+        url: https://kg.qq.com/node/personal?uid=659d9583252e3f8a33
+        icon: fas fa-link
+        description: ""
+      - name: 印象笔记
+        url: https://app.yinxiang.com/Login.action?targetUrl=%2Fclient%2Fweb#?an=true&amp;
         icon: fas fa-link
         description: ""
   - name: ☁️ 云盘与存储
@@ -133,6 +192,9 @@ categories:
         url: https://www.52asa.com/
         icon: fas fa-link
         description: ""
+  - name: 网络质量
+    icon: fas fa-folder
+    sites:
       - name: 高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台
         url: https://ping0.cc/
         icon: fas fa-link
@@ -169,6 +231,9 @@ categories:
         url: https://ipjiance.com/
         icon: fas fa-link
         description: ""
+  - name: 其它网络工具
+    icon: fas fa-folder
+    sites:
       - name: daisySMS - 接码
         url: https://daisysms.com/dashboard
         icon: fas fa-link
@@ -220,7 +285,7 @@ categories:
         url: https://www.fenxm.com/
         icon: fas fa-link
         description: ""
-  - name: ⏱️效率
+  - name: ⏱️ 效率
     icon: fas fa-folder
     sites:
       - name: ChatGPT
@@ -290,7 +355,7 @@ categories:
         url: https://prompt.always200.com/
         icon: fas fa-link
         description: ""
-  - name: 🔌API站
+  - name: 🔌 API站
     icon: fas fa-folder
     sites:
       - name: TB API
@@ -372,7 +437,34 @@ categories:
         url: https://web.telegram.org/k/
         icon: fab fa-telegram
         description: ""
-  - name: 📽️影视
+  - name: 🎵 音乐
+    icon: fas fa-folder
+    sites:
+      - name: utaten - 日语歌词
+        url: https://utaten.com/lyric
+        icon: fas fa-link
+        description: ""
+      - name: 无损生活 - 音乐下载
+        url: https://flac.life/
+        icon: fas fa-link
+        description: ""
+      - name: 网易云无损解析 - 音乐下载
+        url: https://music.s22y.moe/
+        icon: fas fa-link
+        description: ""
+      - name: Moodist - 白噪音
+        url: https://moodist.mvze.net/
+        icon: fas fa-link
+        description: ""
+      - name: 音乐迁移-GoMusic
+        url: https://music.unmeta.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 5sing音乐
+        url: https://5sing.kugou.com/index.html
+        icon: fas fa-link
+        description: ""
+  - name: 📽️ 影视
     icon: fas fa-folder
     sites:
       - name: SuperTV L站公益
@@ -411,34 +503,7 @@ categories:
         url: https://zimuku.org/
         icon: fas fa-link
         description: ""
-  - name: 🎵音乐
-    icon: fas fa-folder
-    sites:
-      - name: utaten - 日语歌词
-        url: https://utaten.com/lyric
-        icon: fas fa-link
-        description: ""
-      - name: 无损生活 - 音乐下载
-        url: https://flac.life/
-        icon: fas fa-link
-        description: ""
-      - name: 网易云无损解析 - 音乐下载
-        url: https://music.s22y.moe/
-        icon: fas fa-link
-        description: ""
-      - name: Moodist - 白噪音
-        url: https://moodist.mvze.net/
-        icon: fas fa-link
-        description: ""
-      - name: 音乐迁移-GoMusic
-        url: https://music.unmeta.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 5sing音乐
-        url: https://5sing.kugou.com/index.html
-        icon: fas fa-link
-        description: ""
-  - name: 🍍博人传
+  - name: 🍍 博人传
     icon: fas fa-folder
     sites:
       - name: 博人传漫画 - 留园
@@ -465,6 +530,21 @@ categories:
         url: https://read-borutomanga.com/manga/boruto-naruto-next-generations-chapter-6/
         icon: fas fa-link
         description: ""
+  - name: 📺 动漫观看
+    icon: fas fa-folder
+    sites:
+      - name: mangabz
+        url: https://www.mangabz.com/?ref=codernav.com
+        icon: fas fa-link
+        description: ""
+      - name: 漫自由
+        url: https://mhx12.com/
+        icon: fas fa-link
+        description: ""
+      - name: Kmoe漫画
+        url: https://mox.moe/
+        icon: fas fa-link
+        description: ""
       - name: 動漫花園資源網 - 動漫愛好者的自由交流平台
         url: https://www.dmhy.org/
         icon: fas fa-link
@@ -489,18 +569,9 @@ categories:
         url: https://anilist.co/
         icon: fas fa-link
         description: ""
-      - name: mangabz
-        url: https://www.mangabz.com/?ref=codernav.com
-        icon: fas fa-link
-        description: ""
-      - name: Kmoe漫画
-        url: https://mox.moe/
-        icon: fas fa-link
-        description: ""
-      - name: 漫自由
-        url: https://mhx12.com/
-        icon: fas fa-link
-        description: ""
+  - name: 🍿 动漫其它
+    icon: fas fa-folder
+    sites:
       - name: 物语系列
         url: https://monogatari.subkey.top/
         icon: fas fa-link
@@ -509,7 +580,7 @@ categories:
         url: https://www.bilibili.com/opus/614818216173759621
         icon: fas fa-link
         description: ""
-  - name: 🔤字体
+  - name: 🔤 字体
     icon: fas fa-folder
     sites:
       - name: 免费字体下载大全，可免费商用中文字体一览表 - 猫啃网
@@ -520,7 +591,7 @@ categories:
         url: https://www.qiuziti.com/
         icon: fas fa-link
         description: ""
-  - name: 🎨作图
+  - name: 🎨 作图
     icon: fas fa-folder
     sites:
       - name: lama cleaner AI去水印
@@ -539,14 +610,14 @@ categories:
         url: https://www.canva.com/
         icon: fas fa-link
         description: ""
-  - name: 🌈配色
+  - name: 🌈 配色
     icon: fas fa-folder
     sites:
       - name: zhongguose － 传统颜色
         url: https://zhongguose.com/
         icon: fas fa-link
         description: ""
-  - name: 🧭攻略
+  - name: 🧭 攻略
     icon: fas fa-folder
     sites:
       - name: 剑网3魔盒
@@ -565,7 +636,7 @@ categories:
         url: https://penguin-stats.cn/?utm_source=penguin-stats&amp;utm_medium=mirror-notification
         icon: fas fa-link
         description: ""
-  - name: 🎥直播
+  - name: 🎥 直播
     icon: fas fa-folder
     sites:
       - name: 跨播插件
@@ -576,7 +647,7 @@ categories:
         url: https://www.obsworks.com/danmupro/
         icon: fas fa-link
         description: ""
-  - name: 🛠️辅助
+  - name: 🛠️ 辅助
     icon: fas fa-folder
     sites:
       - name: 剑网3脸形分享
@@ -591,7 +662,7 @@ categories:
         url: https://mxfree.ao-x.ac.cn/chi/
         icon: fas fa-link
         description: ""
-  - name: 💰交易
+  - name: 💰 交易
     icon: fas fa-folder
     sites:
       - name: CdkeyNoGap - 天天都是大促
@@ -629,7 +700,7 @@ categories:
         url: https://lkssite.vip/
         icon: fas fa-link
         description: ""
-  - name: ☁️临时文件传输
+  - name: ☁️ 临时文件传输
     icon: fas fa-folder
     sites:
       - name: 取文件- Quwenjian
@@ -656,7 +727,7 @@ categories:
         url: https://www.swisstransfer.com/en-us
         icon: fas fa-link
         description: ""
-  - name: 📝文字分享
+  - name: 📝 文字分享
     icon: fas fa-folder
     sites:
       - name: PrivateBin
@@ -675,7 +746,7 @@ categories:
         url: https://incognitobin.com/
         icon: fas fa-link
         description: ""
-  - name: 🛠️其它工具
+  - name: 🛠️ 其它工具
     icon: fas fa-folder
     sites:
       - name: 短链接 - 稳定快速好传递 - http://dlj.bz
@@ -831,5 +902,102 @@ categories:
         description: ""
       - name: 中国医药信息查询平台-国家权威认证全类型医药信息查询平台
         url: https://www.dayi.org.cn/
+        icon: fas fa-link
+        description: ""
+  - name: 🛒 生活与工作
+    icon: fas fa-folder
+    sites:
+      - name: 淘宝
+        url: https://www.taobao.com/
+        icon: fas fa-link
+        description: ""
+      - name: Amazon
+        url: https://www.amazon.com/
+        icon: fab fa-amazon
+        description: ""
+      - name: 网商园-专业网店货源批发分销平台
+        url: https://hznz.wsy.com/?c=16
+        icon: fas fa-link
+        description: ""
+      - name: 纱夜美瞳
+        url: https://saya9x.bearblog.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 希冉美瞳售各国彩色隐形眼镜批代零
+        url: http://www.591con.com/index.php?g=Touch&amp;m=Index&amp;a=index
+        icon: fas fa-link
+        description: ""
+      - name: 瞳121/686/898
+        url: https://m.lizhiweike.com/liveroom2/26932129?inviter_id=114093325&amp;from_old_liveroom=1
+        icon: fas fa-link
+        description: ""
+  - name: 💖 同人
+    icon: fas fa-folder
+    sites:
+      - name: Home | Archive of Our Own
+        url: https://archiveofourown.org/
+        icon: fas fa-link
+        description: ""
+      - name: 天海双子同盟 - Powered by Discuz!
+        url: http://gemini530.net/
+        icon: fas fa-link
+        description: ""
+      - name: (SPARK10) [Munk. (Min)] Tokeru (Naruto) - E-Hentai Galleries
+        url: https://e-hentai.org/g/1096961/d8ca69bb8b/
+        icon: fas fa-link
+        description: ""
+      - name: 鸣佐友♂達汉化整理
+        url: https://weibo.com/ttarticle/x/m/show/id/2309404167398419763651?_wb_client_=1
+        icon: fas fa-link
+        description: ""
+      - name: 桔哥汉化 | NS汉化
+        url: https://ablaze-chocolate-a97.notion.site/2d1dd1dda6e840b7b4a6ab4a99c7de51?v=2cc1cff7fbc84bc3b8e94cb34bb18ffe
+        icon: fas fa-link
+        description: ""
+      - name: 三文鱼🍅🍥 的 Poipiku | 将插图等放入盒子中 [POIPIKU]
+        url: https://poipiku.com/1932311/
+        icon: fas fa-link
+        description: ""
+      - name: 【鳴佐/hoca】雙上忍19P
+        url: https://planet-banana-ea4.notion.site/hoca-19P-10d3119dd4ef4e86bc53b45f4b8c02ba
+        icon: fas fa-link
+        description: ""
+      - name: 阿哩产出汇总
+        url: https://clammy-carrot-bd3.notion.site/39a664a3eab849a2bb2a0dbb572bf960
+        icon: fas fa-link
+        description: ""
+      - name: STARFUCKER
+        url: https://planet-banana-ea4.notion.site/STARFUCKER-451dbcd30dd2482482f4bf7d0469c717
+        icon: fas fa-link
+        description: ""
+  - name: 🔞 成人内容
+    icon: fas fa-folder
+    sites:
+      - name: Porn Dude – 2025年最好的色情网站和免费色情视频网站列表！
+        url: https://theporndude.com/zh
+        icon: fas fa-link
+        description: ""
+      - name: Bad News
+        url: https://bad.news/
+        icon: fas fa-link
+        description: ""
+      - name: PO18情愛原創
+        url: https://www.po18.tw/
+        icon: fas fa-link
+        description: ""
+      - name: spicychat.ai
+        url: https://spicychat.ai/
+        icon: fas fa-link
+        description: ""
+      - name: 成人童话系列《小红帽与狼》第六轨 --- Track 6 in 大人のメルヘンシリーズ 赤ずきんとオオカミさん
+        url: https://soundcloud.com/its-me-708286248/track-6?in=ifet7dxsbkee/sets/uhqrly7unp4u
+        icon: fas fa-link
+        description: ""
+      - name: SillyTavern酒馆
+        url: http://192.168.1.101:8000/
+        icon: fas fa-link
+        description: ""
+      - name: D191G路由器
+        url: http://192.168.1.1/
         icon: fas fa-link
         description: ""
