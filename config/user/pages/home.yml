@@ -114,3 +114,15 @@ categories:
         url: https://so.ddns-ip.net/
         icon: fas fa-search
         description: 聚合多家引擎，保护隐私、无广告的开源元搜索引擎。
+      - name: Ping0.cc
+        url: https://ping0.cc/
+        icon: fas fa-search-location
+        description: 高精度IP归属地、风控值及原生IP类型查询
+      - name: ITDOG
+        url: https://www.itdog.cn/
+        icon: fas fa-tachometer-alt
+        description: 全球多节点Ping/TCPing及路由追踪网络工具
+      - name: Whoer.net
+        url: https://whoer.net/zh
+        icon: fas fa-user-secret
+        description: 检测IP伪装与浏览器指纹，评估网络匿名度
