@@ -4,85 +4,7 @@ subtitle: 个人导航站点
 # 指定使用的模板文件名，现有页面模板可见templates\pages
 template: home
 
-categories:
-  - name: 我的私人网站
-    icon: fas fa-server
-    sites:
-      - name: LivreTV
-        url: https://qingjue-tv.pages.dev/
-        icon: fas fa-tv
-        description: 影视资源搜索与在线播放
-      - name: CloudPaste
-        url: https://cloudpaste-frontend-2yc.pages.dev/
-        icon: fas fa-paste
-        description: 文本与文件分享，支持密码/时效/次数
-      - name: 密码管理器
-        url: https://password-manager.qingjue723.workers.dev/
-        icon: fas fa-key
-        description: 安全的密码存储、智能填充、云备份同步
-      - name: Writo-TTS V2
-        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
-        icon: fas fa-volume-up
-        description: 免费在线文字转语音，支持72+语言与多种声音选择
-      - name: 图床
-        url: https://cloudflare-imgbed-6fi.pages.dev/
-        icon: fas fa-images
-        description: 笔记与网页的图片音视频托管
-      - name: NodeCrypt
-        url: https://nodecrypt1.qingjue723.workers.dev/
-        icon: fas fa-user-secret
-        description: 端到端加密网页聊天室，阅后即焚
-      - name: Sublink订阅转换
-        url: https://sublink-worker.qingjue723.workers.dev/
-        icon: fas fa-exchange-alt
-        description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
-      - name: Lama Cleaner
-        url: https://huggingface.co/spaces/canaan723/Lama-Cleaner-lama
-        icon: fas fa-eraser
-        description: AI智能擦除图片水印、文字、杂物等瑕疵
-  - name: 伟大的人工智能
-    icon: fas fa-brain
-    sites:
-      - name: ChatGPT
-        url: https://chatgpt.com/
-        icon: fas fa-comment-dots
-        description: 最好的心理疏导老师
-      - name: Gemini
-        url: https://gemini.google.com/app
-        icon: fab fa-google
-        description: 最好用的哈基米
-      - name: Google AI Studio
-        url: https://aistudio.google.com/prompts/new_chat
-        icon: fas fa-flask
-        description: 最好用的哈基米二号
-      - name: 大模型竞技场
-        url: https://lmarena.ai/
-        icon: fas fa-scale-balanced
-        description: 大模型在线试用、打分与排名
-      - name: DeepSeek
-        url: https://chat.deepseek.com/
-        icon: fas fa-lightbulb
-        description: 中文很好的小鲸鱼
-      - name: Claude
-        url: https://claude.ai/recents
-        icon: fas fa-code
-        description: 写代码很厉害，但免费额度不够用呀
-      - name: Grok
-        url: https://grok.com/chat
-        icon: fab fa-twitter
-        description: 没有审核，可以搞黄
-      - name: RawChat公益站点
-        url: https://sharedchat.fun/
-        icon: fas fa-comment-dots
-        description: 第三方GPT公益站
-      - name: Deep Ask 深思所问
-        url: https://deepask.cc/
-        icon: fas fa-robot
-        description: 聚合多种大模型的第三方站点
-      - name: NotebookLM
-        url: https://notebooklm.google.com/
-        icon: fas fa-book-open-reader
-        description: 基于个人文档的AI问答，访谈功能惊艳
+
   - name: 一些常用网站
     icon: fas fa-star
     sites:
@@ -126,3 +48,83 @@ categories:
         url: https://whoer.net/zh
         icon: fas fa-user-secret
         description: 检测IP伪装与浏览器指纹，评估网络匿名度
+  - name: 伟大的人工智能
+    icon: fas fa-brain
+    sites:
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-comment-dots
+        description: 最好的心理疏导老师
+      - name: Gemini
+        url: https://gemini.google.com/app
+        icon: fab fa-google
+        description: 最好用的哈基米
+      - name: Google AI Studio
+        url: https://aistudio.google.com/prompts/new_chat
+        icon: fas fa-flask
+        description: 最好用的哈基米二号
+      - name: 大模型竞技场
+        url: https://lmarena.ai/
+        icon: fas fa-scale-balanced
+        description: 大模型在线试用、打分与排名
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fas fa-lightbulb
+        description: 中文很好的小鲸鱼
+      - name: Claude
+        url: https://claude.ai/recents
+        icon: fas fa-code
+        description: 写代码很厉害，但免费额度不够用呀
+      - name: Grok
+        url: https://grok.com/chat
+        icon: fab fa-twitter
+        description: 没有审核，可以搞黄
+      - name: RawChat公益站点
+        url: https://sharedchat.fun/
+        icon: fas fa-comment-dots
+        description: 第三方GPT公益站
+      - name: Deep Ask 深思所问
+        url: https://deepask.cc/
+        icon: fas fa-robot
+        description: 聚合多种大模型的第三方站点
+      - name: NotebookLM
+        url: https://notebooklm.google.com/
+        icon: fas fa-book-open-reader
+        description: 基于个人文档的AI问答，访谈功能惊艳
+categories:
+  - name: 我的私人网站
+    icon: fas fa-server
+    sites:
+      - name: LivreTV
+        url: https://qingjue-tv.pages.dev/
+        icon: fas fa-tv
+        description: 影视资源搜索与在线播放
+      - name: CloudPaste
+        url: https://cloudpaste-frontend-2yc.pages.dev/
+        icon: fas fa-paste
+        description: 文本与文件分享，支持密码/时效/次数
+      - name: 密码管理器
+        url: https://password-manager.qingjue723.workers.dev/
+        icon: fas fa-key
+        description: 安全的密码存储、智能填充、云备份同步
+      - name: Writo-TTS V2
+        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        icon: fas fa-volume-up
+        description: 免费在线文字转语音，支持72+语言与多种声音选择
+      - name: 图床
+        url: https://cloudflare-imgbed-6fi.pages.dev/
+        icon: fas fa-images
+        description: 笔记与网页的图片音视频托管
+      - name: NodeCrypt
+        url: https://nodecrypt1.qingjue723.workers.dev/
+        icon: fas fa-user-secret
+        description: 端到端加密网页聊天室，阅后即焚
+      - name: Sublink订阅转换
+        url: https://sublink-worker.qingjue723.workers.dev/
+        icon: fas fa-exchange-alt
+        description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
+      - name: Lama Cleaner
+        url: https://huggingface.co/spaces/canaan723/Lama-Cleaner-lama
+        icon: fas fa-eraser
+        description: AI智能擦除图片水印、文字、杂物等瑕疵
+        
