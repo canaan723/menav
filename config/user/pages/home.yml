@@ -42,12 +42,12 @@ categories:
         description: 高精度IP归属地、风控值及原生IP类型查询
       - name: ITDOG
         url: https://www.itdog.cn/
-        icon: fas fa-network-wired
-        description: 全球多节点Ping/TCPing及路由追踪网络工具
+        icon: fas fa-satellite-dish
+        description: 多节点网络测试工具，检测Ping/MTR/DNS
       - name: Whoer.net
         url: https://whoer.net/zh
         icon: fas fa-eye-slash
-        description: 检测IP伪装与浏览器指纹，评估网络匿名度
+        description: 检测IP地址与浏览器指纹，评估匿名程度
   - name: 伟大的人工智能
     icon: fas fa-brain
     sites:
