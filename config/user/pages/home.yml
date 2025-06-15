@@ -24,6 +24,10 @@ categories:
         url: https://dash.cloudflare.com
         icon: fab fa-cloudflare
         description: 为网站提供全球加速与安全防护
+      - name: Libre Search
+        url: https://so.ddns-ip.net/
+        icon: fas fa-search
+        description: 聚合多家引擎，保护隐私、无广告的开源元搜索引擎。
       - name: Bilibili
         url: https://www.bilibili.com/
         icon: fab fa-bilibili
@@ -32,10 +36,6 @@ categories:
         url: https://www.youtube.com/
         icon: fab fa-youtube
         description: 知名学习网站二号
-      - name: Libre Search
-        url: https://so.ddns-ip.net/
-        icon: fas fa-search
-        description: 聚合多家引擎，保护隐私、无广告的开源元搜索引擎。
       - name: Ping0.cc
         url: https://ping0.cc/
         icon: fas fa-map-marker-alt
