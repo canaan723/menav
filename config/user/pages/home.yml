@@ -4,7 +4,7 @@ subtitle: 个人导航站点
 # 指定使用的模板文件名，现有页面模板可见templates\pages
 template: home
 
-
+categories:
   - name: 一些常用网站
     icon: fas fa-star
     sites:
@@ -91,7 +91,6 @@ template: home
         url: https://notebooklm.google.com/
         icon: fas fa-book-open-reader
         description: 基于个人文档的AI问答，访谈功能惊艳
-categories:
   - name: 我的私人网站
     icon: fas fa-server
     sites:
