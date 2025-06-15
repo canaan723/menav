@@ -40,14 +40,14 @@ categories:
         url: https://ping0.cc/
         icon: fas fa-map-marker-alt
         description: 高精度IP归属地、风控值及原生IP类型查询
-      - name: ITDOG
-        url: https://www.itdog.cn/
-        icon: fas fa-satellite-dish
-        description: 多节点网络测试工具，检测Ping/MTR/DNS
       - name: Whoer.net
         url: https://whoer.net/zh
         icon: fas fa-eye-slash
         description: 检测IP地址与浏览器指纹，评估匿名程度
+      - name: ITDOG
+        url: https://www.itdog.cn/
+        icon: fas fa-satellite-dish
+        description: 多节点网络测试工具，检测Ping/MTR/DNS
   - name: 伟大的人工智能
     icon: fas fa-brain
     sites:
