@@ -95,15 +95,15 @@ categories:
     icon: fas fa-server
     sites:
       - name: LivreTV
-        url: https://qingjue-tv.pages.dev/
+        url: https://tv.723123.xyz/
         icon: fas fa-tv
         description: 影视资源搜索与在线播放
       - name: CloudPaste
-        url: https://cloudpaste-frontend-2yc.pages.dev/
+        url: https://paste.723123.xyz/
         icon: fas fa-paste
         description: 文本与文件分享，支持密码/时效/次数
       - name: 密码管理器
-        url: https://password-manager.qingjue723.workers.dev/
+        url: https://pass.723123.xyz/
         icon: fas fa-key
         description: 安全的密码存储、智能填充、云备份同步
       - name: Writo-TTS V2
@@ -111,15 +111,15 @@ categories:
         icon: fas fa-volume-up
         description: 免费在线文字转语音，支持72+语言与多种声音选择
       - name: 图床
-        url: https://cloudflare-imgbed-6fi.pages.dev/
+        url: https://img.723123.xyz/
         icon: fas fa-images
         description: 笔记与网页的图片音视频托管
       - name: NodeCrypt
-        url: https://nodecrypt1.qingjue723.workers.dev/
+        url: https://chat.723123.xyz/
         icon: fas fa-user-secret
         description: 端到端加密网页聊天室，阅后即焚
       - name: Sublink订阅转换
-        url: https://sublink-worker.qingjue723.workers.dev/
+        url: https://sub.723123.xyz/
         icon: fas fa-exchange-alt
         description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
       - name: Lama Cleaner
