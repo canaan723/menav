@@ -94,31 +94,27 @@ categories:
   - name: 我的私人网站
     icon: fas fa-server
     sites:
-      - name: LivreTV
-        url: https://tv.723123.xyz/
-        icon: fas fa-tv
-        description: 影视资源搜索与在线播放
-      - name: CloudPaste
-        url: https://paste.723123.xyz/
-        icon: fas fa-paste
-        description: 文本与文件分享，支持密码/时效/次数
-      - name: 密码管理器
-        url: https://pass.723123.xyz/
-        icon: fas fa-key
-        description: 安全的密码存储、智能填充、云备份同步
-      - name: Writo-TTS V2
-        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
-        icon: fas fa-volume-up
-        description: 免费在线文字转语音，支持72+语言与多种声音选择
-      - name: 图床
+      - name: 清绝 - Blog
+        url: https://qingjue.723123.xyz/
+        icon: fas fa-blog
+        description: 还在建设中的Blog...
+      - name: 清绝 - 图床
         url: https://img.723123.xyz/
         icon: fas fa-images
         description: 笔记与网页的图片音视频托管
-      - name: NodeCrypt
+      - name: 清绝 - 影视站
+        url: https://tv.723123.xyz/
+        icon: fas fa-tv
+        description: 影视资源搜索与在线播放
+      - name: 清绝 - 聊天室
         url: https://chat.723123.xyz/
         icon: fas fa-user-secret
         description: 端到端加密网页聊天室，阅后即焚
-      - name: Sublink订阅转换
+      - name: 清绝 - 密码管理
+        url: https://pass.723123.xyz/
+        icon: fas fa-key
+        description: 安全的密码存储、智能填充、云备份同步
+      - name: 清绝 - 订阅转换
         url: https://sub.723123.xyz/
         icon: fas fa-exchange-alt
         description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
@@ -126,4 +122,8 @@ categories:
         url: https://huggingface.co/spaces/canaan723/Lama-Cleaner-lama
         icon: fas fa-eraser
         description: AI智能擦除图片水印、文字、杂物等瑕疵
+      - name: Writo-TTS V2
+        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        icon: fas fa-volume-up
+        description: 免费在线文字转语音，支持72+语言与多种声音选择
         
