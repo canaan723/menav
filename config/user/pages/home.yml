@@ -94,10 +94,6 @@ categories:
   - name: 我的私人网站
     icon: fas fa-server
     sites:
-      - name: 清绝 - Blog
-        url: https://qingjue.723123.xyz/
-        icon: fas fa-blog
-        description: 还在建设中的Blog...
       - name: 清绝 - 图床
         url: https://img.723123.xyz/
         icon: fas fa-images
