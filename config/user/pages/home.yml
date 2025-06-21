@@ -102,6 +102,10 @@ categories:
         url: https://send.723123.xyz/
         icon: fas fa-paper-plane
         description: 个人网页版“微信文件传输助手”
+      - name: 清绝 - 剪贴板
+        url: https://paste.723123.xyz/
+        icon: fas fa-paste
+        description: 文本与文件分享，支持密码/时效/次数
       - name: 清绝 - 影视站
         url: https://tv.723123.xyz/
         icon: fas fa-tv
