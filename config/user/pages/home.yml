@@ -94,26 +94,26 @@ categories:
   - name: 我的私人网站
     icon: fas fa-server
     sites:
-      - name: 清绝 - 文件传输
-        url: https://send.723123.xyz/
-        icon: fas fa-arrows-left-right-to-li
-        description: 个人网页版“微信文件传输助手”
       - name: 清绝 - 图床
         url: https://img.723123.xyz/
         icon: fas fa-images
         description: 笔记与网页的图片音视频托管
+      - name: 清绝 - 文件传输
+        url: https://send.723123.xyz/
+        icon: fas fa-paper-plane
+        description: 个人网页版“微信文件传输助手”
       - name: 清绝 - 影视站
         url: https://tv.723123.xyz/
         icon: fas fa-tv
         description: 影视资源搜索与在线播放
-      - name: 清绝 - 聊天室
-        url: https://chat.723123.xyz/
-        icon: fas fa-user-secret
-        description: 端到端加密网页聊天室，阅后即焚
       - name: 清绝 - 短链
         url: https://u.723123.xyz/
         icon: fas fa-bolt
         description: 可自定义后缀的URL缩短器
+      - name: 清绝 - 聊天室
+        url: https://chat.723123.xyz/
+        icon: fas fa-user-secret
+        description: 端到端加密网页聊天室，阅后即焚
       - name: 清绝 - 密码管理
         url: https://pass.723123.xyz/
         icon: fas fa-key
