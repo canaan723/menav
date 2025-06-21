@@ -94,6 +94,10 @@ categories:
   - name: 我的私人网站
     icon: fas fa-server
     sites:
+      - name: 清绝 - 文件传输
+        url: https://send.723123.xyz/
+        icon: fas fa-arrows-left-right-to-li
+        description: 个人网页版“微信文件传输助手”
       - name: 清绝 - 图床
         url: https://img.723123.xyz/
         icon: fas fa-images
