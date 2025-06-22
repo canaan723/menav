@@ -98,11 +98,11 @@ categories:
         url: https://img.723123.xyz/
         icon: fas fa-images
         description: 笔记与网页的图片音视频托管
-      - name: 清绝 - 文件传输
+      - name: 清绝 - 剪贴板
         url: https://send.723123.xyz/
         icon: fas fa-paper-plane
         description: 个人网页版“微信文件传输助手”
-      - name: 清绝 - 剪贴板
+      - name: 清绝 - 文本文件分享
         url: https://paste.723123.xyz/
         icon: fas fa-paste
         description: 文本与文件分享，支持密码/时效/次数
