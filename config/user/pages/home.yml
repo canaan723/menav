@@ -123,11 +123,11 @@ categories:
         icon: fas fa-bolt
         description: 将单条订阅和Base64订阅链接转换为不同客户端可用的订阅链接
       - name: Lama Cleaner
-        url: https://huggingface.co/spaces/canaan723/Lama-Cleaner-lama
+        url: https://canaan723-lama-cleaner-lama.hf.space/
         icon: fas fa-eraser
         description: AI智能擦除图片水印、文字、杂物等瑕疵
       - name: Writo-TTS V2
-        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        url: https://canaan723-writo-tts-v2.hf.space/
         icon: fas fa-volume-up
         description: 免费在线文字转语音，支持72+语言与多种声音选择
         
