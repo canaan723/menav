@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-29T03:29:35.154Z
+# 由bookmark-processor.js生成于 2025-06-29T18:12:26.104Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -52,6 +52,10 @@ categories:
   - name: ❤️ 个人项目
     icon: fas fa-folder
     sites:
+      - name: 1Panel
+        url: http://68.64.177.162:21896/
+        icon: fas fa-link
+        description: ""
       - name: Uptime Kuma 监控
         url: http://68.64.177.162:3001/dashboard
         icon: fas fa-link
@@ -60,8 +64,8 @@ categories:
         url: https://jg.723123.xyz/
         icon: fas fa-link
         description: ""
-      - name: 1Panel
-        url: http://68.64.177.162:21896/
+      - name: Gemini Balance
+        url: https://canaan723-lunxun.hf.space/
         icon: fas fa-link
         description: ""
       - name: 清绝 - 导航站
@@ -113,7 +117,7 @@ categories:
         icon: fas fa-link
         description: ""
       - name: 清绝 - 文字转语音
-        url: https://huggingface.co/spaces/canaan723/Writo-TTS-V2
+        url: https://canaan723-writo-tts-v2.hf.space/
         icon: fas fa-link
         description: ""
       - name: 影视
@@ -138,6 +142,18 @@ categories:
         description: ""
       - name: Snapifit AI 健身
         url: https://ai.snapfit.space/zh
+        icon: fas fa-link
+        description: ""
+      - name: RSSHub
+        url: https://rrs.723123.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: Folo
+        url: https://app.follow.is/timeline/view-1/all/pending
+        icon: fas fa-link
+        description: ""
+      - name: Libre Search
+        url: https://canaan723-libre-search.hf.space/
         icon: fas fa-link
         description: ""
   - name: ☁️ 云盘与存储
@@ -235,6 +251,10 @@ categories:
         description: ""
       - name: 域名比价
         url: https://zh-hans.tld-list.com/
+        icon: fas fa-link
+        description: ""
+      - name: Overview | mysql-7c7d33b | Aiven
+        url: https://console.aiven.io/account/a543689d6172/project/trustful/services/mysql-7c7d33b/overview
         icon: fas fa-link
         description: ""
   - name: ✈️机场
@@ -572,6 +592,10 @@ categories:
       - name: Telegram Web
         url: https://web.telegram.org/k/
         icon: fab fa-telegram
+        description: ""
+      - name: 插画交流网站[pixiv]
+        url: https://www.pixiv.net/
+        icon: fas fa-link
         description: ""
   - name: 🎵 音乐
     icon: fas fa-folder
@@ -1257,5 +1281,9 @@ categories:
         description: ""
       - name: FinalShell SSH工具,服务器管理,远程桌面加速软件,支持Windows,macOS,Linux,版本4.6.3,更新日期2025.5.21 - FinalShell官网
         url: https://www.hostbuf.com/t/988.html
+        icon: fas fa-link
+        description: ""
+      - name: HuggingFace部署数据库版本 🚀 | Gemini Balance
+        url: https://gb-docs.snaily.top/guide/setup-hf.html
         icon: fas fa-link
         description: ""
